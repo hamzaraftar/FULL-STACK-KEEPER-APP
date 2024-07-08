@@ -1,0 +1,6 @@
+CREATE TADABASE keep ;
+CREATE TABLE keep(
+ keep_id SERIAL PRIMARY KEY,
+ title VARCHAR(250),
+ content VARCHAR(250)
+);
