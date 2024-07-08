@@ -21,10 +21,6 @@ Clone the project
 
 Go to the project directory
 
-```bash
-  cd full keeper
-```
-
 Install dependencies
 
 ```bash
